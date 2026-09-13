@@ -237,4 +237,4 @@ This repository serves as the official landing page for Street Fighter. The soft
 **Get the most recent version of Street Fighter today!**
 
 ---
-**Last updated:** 2026-09-13 17:55:38 UTC
+**Last updated:** 2026-09-13 20:27:00 UTC
